@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختبار المعلومات</string>
+    <string name="Question_Egypt">هل القاهرة عاصمة مصر؟</string>
+    <string name="Question_America">هل تيكساس عاصمة اميريكا؟</string>
+    <string name="Question_Australia">هل كانبرا عاصمة استراليا؟</string>
+    <string name="Question_Brazil">هل برازيليا عاصمة البرازيل؟</string>
+    <string name="Question_Canada">هل سوفيا عاصمة كندا؟</string>
+    <string name="Question_England">هل لندن عاصمة انجلترا؟</string>
+    <string name="Question_France">هل موناكو عاصمة فرنسا؟</string>
+    <string name="True">صح</string>
+    <string name="False">خطا</string>
+    <string name="Correct">اجابة صحيحة</string>
+    <string name="notCorrect">اجابة خاطئة</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="choose_language">اختر لغة</string>
+    <string name="totalScore">عدد النقاط</string>
+    <string name="score">لديك: </string>
+    <string name="cancel">الغاء</string>
+    <string name="warning">هل انت متاكد تريد فعل هذا؟</string>
+    <string name="show_answer_btn">رؤية الاجابة</string>
+    <string name="cheat_btn">غش</string>
+    <string name="judgement_toast">حاول انت تعتمد علي نفسك تمام؟</string>
+    <string name="cheater">غشاش</string>
+</resources>
